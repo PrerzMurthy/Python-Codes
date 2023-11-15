@@ -1,0 +1,5 @@
+This is a new file created using Python!
+You can write multiple lines to this file.
+Let's add some more text to the file.
+Appending more text to the file.
+This is an appended line using Append Mode.
